@@ -40,5 +40,3 @@ For testing if app is running and reachable use '/' route
 /action/backward
 ```
 
-/action/forward
-
